@@ -1,0 +1,3 @@
+cache/*
+*.pt
+__pycache__
